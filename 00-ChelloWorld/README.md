@@ -1,1 +1,1 @@
-# TP0 "Hello, World"
+# compilador: c2x
